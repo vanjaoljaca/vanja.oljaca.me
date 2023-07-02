@@ -23,7 +23,7 @@ email: vanja.oljaca@me.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal professional blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://vanja.oljaca.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vanjaoljaca
 github_username:  vanjaoljaca
 

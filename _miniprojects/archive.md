@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Mini Projects
-permalink: /miniprojects/
+layout: category_archives
+title: Mini Projects Archive
+permalink: /miniprojects/archive/
 ---
 
 - [deckard bot](./deckard-bot)
@@ -19,7 +19,3 @@ permalink: /miniprojects/
     </li>
   {% endfor %}
 </ul>
-
-<div class="floating-iframe">
-  <iframe src="https://www.example.com" width="300" height="200"></iframe>
-</div>

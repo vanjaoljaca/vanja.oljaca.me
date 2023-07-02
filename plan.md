@@ -1,6 +1,26 @@
+---
+layout: page
+title: Dot Plan
+permalink: /dotplan/
+---
+
 ### Dot Plan
 
 *Here is stuff I plan to do soonish or at some point.*
+
+#### Current Sprint
+
+*Launch blog w/ 1 post & announce on @vanjaoljaca*
+
+
+
+
+
+
+
+------
+
+#### On The Horizon
 
 #### Project Ideas
 
@@ -8,6 +28,11 @@
    1. Create scenarios following Paul Nobel pattern
 2. Generative LLM Web browser
    1. Rorsarch for LLMs
+3. 
+
+#### AI Research
+
+1. 
 
 #### **Personal Development Environment**
 
@@ -46,3 +71,4 @@
 11. Autotrader platform
 12. Instagram filter
 13. An apple XR app
+14. Separate Jekyll build from blog data files
