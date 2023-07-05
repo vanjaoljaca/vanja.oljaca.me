@@ -31,11 +31,11 @@ Not sure what to ask? Ask for some question recommendations.
   bottom: 0;
   right: 0;
   width: 300px;
-  height: 200px;
+  height: 520px;
   border: none;
   z-index: 1000; /* Ensures the iframe stays on top of other page content */
 }
 </style>
 <div class="floating-iframe">
-  <iframe src="https://vanjacloud.oljaca.me/blogchat.html" width="300" height="200"></iframe>
+  <iframe src="https://vanjacloud.oljaca.me/blogchat.html" width="300" height="520"></iframe>
 </div>
