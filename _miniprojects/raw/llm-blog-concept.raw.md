@@ -319,3 +319,18 @@ Uploaded. It has started replying in first person. cool...
 Jul 1 23:09
 
 Wrestled with Jekyll and Github and Azure, plugins etc for a while. was pretty boring but got something working with a remote theme i like. figured out how to get a floating iFrame, and picked out a react chatbot component i'm going to wire up to my cloud thing
+
+Sigh wtf:
+
+1. jekyll can't keep my raw mds from being converted, unless I pull them out of the collection. this software is garbage, so many bad choices creating complexity for no reason...
+2. pulled in some random chat ui, and now my blogchat.html js is 3.5mb. It's struggling to git push. wtf.
+
+Ugh.
+
+Absolute external links are broken. Also paragraph spacing is really bad.
+
+I got a floating chat box in the blog, connected to my external page which connects to an external lambda.
+
+Most of this drama has very little to do with getting the LLM part of the blog working, its all about how to get a blog up and functioning the way I want it. Somewhat surprising how long this takes. In hindsight, would it have been easier to just use a wordpress blog and go from there? Am I spinning wheels, thinking i'm being useful but really just enjoying the feeling of being busy with a goal?
+
+Doesn't matter, it'll no doubt build some midly useful skills. It will build momentum. Plus I wouldn't be surprised if the wordpress style option had its own drama.

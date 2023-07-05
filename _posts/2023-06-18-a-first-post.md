@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A First Post
+excerpt: Just a little test...
 ---
 
 ## A First Post
