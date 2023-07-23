@@ -50,9 +50,12 @@ permalink: /dotplan/
 1. Live Git idea. Can we store all our changes to a code base, then use LLM to make sense of them?
 1. 
 
-#### Skill Development
+#### Skill Development / Enablement
 
 1. learn skill: stick a picture on another picture
+2. Make a video with nice gfx + music
+   1. Get a consumable song audio file
+
 
 #### Blog Styling
 

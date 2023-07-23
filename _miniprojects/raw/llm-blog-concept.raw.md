@@ -334,3 +334,17 @@ I got a floating chat box in the blog, connected to my external page which conne
 Most of this drama has very little to do with getting the LLM part of the blog working, its all about how to get a blog up and functioning the way I want it. Somewhat surprising how long this takes. In hindsight, would it have been easier to just use a wordpress blog and go from there? Am I spinning wheels, thinking i'm being useful but really just enjoying the feeling of being busy with a goal?
 
 Doesn't matter, it'll no doubt build some midly useful skills. It will build momentum. Plus I wouldn't be surprised if the wordpress style option had its own drama.
+
+---
+
+jul-7 00:10
+
+Still hacking away. Went on a wild tangent styling the chat window. I added a spinner with specific colour transition that involves 3 points on a bezier curve and 3 point acceleration function. Also some colour theory to pick the perfect colours. Whole thing was done with back and forth on chat gpt. Was actually quite fun. Was it faster than doing it myself? Idk, probably not, but I did it while casually zoned out on the couch, which was nice. I didn't have to dive too deep into the math and as long as I asked for tests (& asked for fixes for tests) it generally worked. Gave a decent result.
+
+Still need to fix the spacing on my blog theme then I might be able to do a limited release to people.
+
+
+
+I'd also really like to be able to have a plugin that allows people to leave a comment, and perhaps have a "frequently asked questions" thing. Also wouldn't hate if all questions were logged in an easy place (they're not yet). 
+
+Final thing: might need some protection that this thing doesn't get abused $$$ wise. I think its cheap? I have no idea. Wouldn't hurt to do the math on that

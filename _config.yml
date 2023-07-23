@@ -34,7 +34,7 @@ github_username:  vanjaoljaca
 #remote_theme: aterenin/minima-reboot
 #remote_theme: pages-themes/cayman
 #remote_theme: knhash/jekyllBear
-remote_theme: yous/whiteglass
+theme: jekyll-whiteglass
 plugins:
   - jekyll-archives
   - jekyll-paginate

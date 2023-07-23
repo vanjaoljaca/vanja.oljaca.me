@@ -5,11 +5,11 @@ main:
     url: /dotplan/
   - title: "Posts"
     url: /posts/
-  - title: "Articles"
-    url: /articles/
+  # - title: "Articles"
+  #   url: /articles/
   - title: "Projects"
     url: /miniprojects/
-  - title: "Guides"
-    url: /guides/
-  - title: "More"
-    url: /more/
+  # - title: "Guides"
+  #   url: /guides/
+  # - title: "More"
+  #   url: /more/
