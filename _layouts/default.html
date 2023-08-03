@@ -1,20 +1,39 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: " en" }}">
+  <style>
+    body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  margin: 0;
+}
 
-  {% include head.html %}
+main {
+  flex: 1 0 auto;
+}
 
-  <body>
+footer {
+  flex-shrink: 0;
+}
 
-    {% include header.html %}
+  </style>
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
+{% include head.html %}
 
+<body>
+
+  {% include header.html %}
+
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+
+  <footer class="footer">
     {% include footer.html %}
+  </footer>
 
-  </body>
+</body>
 
 </html>

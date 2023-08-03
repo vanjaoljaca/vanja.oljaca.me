@@ -6,24 +6,9 @@ permalink: /dotplan/
 
 *Here is stuff I plan to do soonish or at some point.*
 
-
-
-#### Pseudo-Today
-
-- Try Midjourney w/ Song lyrics
-
-
-
 #### Current Sprint
 
 *Launch blog w/ 1 post & announce on @vanjaoljaca*
-
-* The spacing is all wrong
-* The LLM blog post chat box is ugly
-
-
-
-
 
 ------
 
@@ -48,7 +33,7 @@ permalink: /dotplan/
 #### AI Research / Experimentation
 
 1. Live Git idea. Can we store all our changes to a code base, then use LLM to make sense of them?
-1. 
+1.
 
 #### Skill Development / Enablement
 
@@ -57,9 +42,6 @@ permalink: /dotplan/
    1. Get a consumable song audio file
 
 
-#### Blog Styling
-
-Good inspiration for what is needed: sarunw .com/posts/how-to-make-macos-menu-bar-app/
 
 #### **Personal Development Environment**
 
@@ -70,28 +52,22 @@ Good inspiration for what is needed: sarunw .com/posts/how-to-make-macos-menu-ba
    1. twitter
    2. HN, other
    3. ChatGPT conversations
-3. first summary: run this week through gpt
-   1. only ‘daily’ tag
-4. 1. 
 5. Publish a $1 iOS app
 6. my desktop electron app:
-   1. Lazy style invoke
-   2. Publish tweet?
-   3. cmd+| for toggle views
-   4. command pallette
+   1. Publish tweet?
+   2. cmd+| for toggle views
+   3. command pallette
 7. ios app:
-   1. translation page + auto save
+   1. translation auto save
    2. wyd notifications
-   3. quick tags
    4. see daily todos
-8. all my apps: 
+8. all my apps:
    1. add offline posting w/ cache
    2. translation: log tanslation requests
 9. My own ableton DSP / Plugin
    1. Window management?
-10. LLMs:
-   1. map reduce system for managing recurring prompts and observability
-   2. multiagent interaction, function to allow opt out
+1. map reduce system for managing recurring prompts and observability
+2. multiagent interaction, function to allow opt out
 11. Start dataset store
     1. Messenger
     2. Twitter
