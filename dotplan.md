@@ -14,11 +14,42 @@ permalink: /dotplan/
 2. AI Based how to (voice?)
 3. OpEd on Values
 4. Something synthesized from working big tech ("Top 5 X I learned...")
-5. ...?
+5. Post comparing Amazon / Oracle culture? Or something about each one
+   1. or Rorsarch for LLMs browser?
+6. My first iOS app launch
+7. Review that guy's AI thing!! An ad for his thing...
+8. Auto-upload photobooth to azure
 
 
+
+Bug: [IOS] Save translation does not clear + auto save
+
+Video uploader
+
+
+
+Multistreams:
+
+- Splice + Ableton
+- Spanish clean up story
+- Code uploader
+- Physics
+- Anime
 
 ------
+
+### My App
+
+*I have an app I am developing in a mildly unique way. Write up at substack https://vanjajaja1.substack.com *
+
+1. Video record & upload to azure storage
+2. Standalone photographer (w/ AI?) (AI photographer could be very interesting for poses)
+3. JS game engine to show off & start
+4. Offline posting
+5. wyd notifications
+6. see daily todos
+
+
 
 #### On The Horizon
 
@@ -33,7 +64,7 @@ Neil's App
 3. Story telling pipeline
    1. Thoughts Pipeline variant (Iterative, Connected, ThirdThing)
 
-4. Lyrics learn helper
+4. Lyrics learn helper (download from youtube)
 5. Make video —?—> Cloud Storage (help for bulk video collection, using AI for content management search)
 6. Post-write sorting…
    1. do people use email for this?
@@ -49,19 +80,6 @@ Neil's App
 
 1. Learn to create a voice changing model (eg. Celebrity)
 2. Where to source timestamped lyrics? youtube?
-
-### My App
-
-*I have an app I am developing in a mildly unique way. Write up at substack https://vanjajaja1.substack.com *
-
-1. Video record & upload to azure storage
-2. Standalone photographer (w/ AI?) (AI photographer could be very interesting for poses)
-3. JS game engine to show off & start
-
-
-
-1. Bugs:
-   1. Save translation does not clear (auto save)
 
 
 
@@ -81,24 +99,17 @@ Neil's App
    1. Publish tweet?
    2. cmd+| for toggle views
    3. command pallette
-5. ios app:
-   1. translation auto save
-   2. wyd notifications
-   4. see daily todos
-6. all my apps:
-   1. add offline posting w/ cache
-   2. translation: log tanslation requests
-7. My own ableton DSP / Plugin
+5. My own ableton DSP / Plugin
    1. Window management?
-8. map reduce system for managing recurring prompts and observability
-9. multiagent interaction, function to allow opt out
-10. Start dataset store
-    1. Messenger
-    2. Twitter
-11. Autotrader platform
-12. Instagram filter
-13. An apple XR app
-14. Separate Jekyll build from blog data files
-15. IG integration & face detection
-16. Blog: 
+6. map reduce system for managing recurring prompts and observability
+7. multiagent interaction, function to allow opt out
+8. Start dataset store
+   1. Messenger
+   2. Twitter
+9. Autotrader platform
+10. Instagram filter
+11. An apple XR app
+12. Separate Jekyll build from blog data files
+13. IG integration & face detection
+14. Blog: 
     1. Add this chat UI https://github.com/ggerganov/llama.cpp/pull/1998
