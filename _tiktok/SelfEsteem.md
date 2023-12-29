@@ -60,13 +60,11 @@ Video Breakdown:
 
 ----
 
-**0-5s**: [Direct to camera] "One of the most influential books I’ve read is 'The Six Pillars of Self-Esteem' by Nathaniel Branden."
+**0-5s**: [Direct to camera] "One of the most influential books I’ve read is 'The Six Pillars of Self-Esteem' by Nathaniel Branden." +3    This the kinda thing you want if self actualization is your goal
 
 **5-15s**: [Engaging tone] "Recommended by a work friend who had this giant fish tank at his desk. Like  monitor at his desk – a guy completely happy in his own world."
 
-it delves into how self-esteem ties to psychology and its six pillars."
-
-**15-25s**: [Reflective] "The book connects 'self esteem' to modern psychology and breaks it down into 6 pillars *show* but they all sort of fall into one idea: honest internal discussion with the internal judge. Very similar to IFS"
+**15-25s**: [Reflective] "The book connects 'self esteem' to modern psychology by breaking it down into 6 pillars *show* but they all sort of fall into one idea: honest  discussion with the internal judge. Very similar to IFS"
 
 **#1 Critic exists**
 **25-35s**: [Thoughtful] The most important point in the book to me is, we already have a guiding principle internally for what we need to be like to be 'high self esteem'. Its there, it exists, inside. The goals are not set externally, and chasing these goals is a dead end. The idea already exists, we just need to extract it with IFS style negotiation.
