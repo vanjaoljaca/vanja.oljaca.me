@@ -1,9 +1,12 @@
 ---
 layout: page
 title: LLM Blog Concept
+excerpt: What if we separated a blog post into push & pull components? The pushed part would be short sharp and terse, the pulled part would be conversational and targeted to the reader.
 ---
 
 ### Hello World: A New Blog UX
+
+**Update:** *This was much more expensive than I calculated so I have disabled it for now.*
 
 
 No one reads blog posts, they're too long with too much filler. What if they just gave you the key insights up-front?
@@ -23,19 +26,5 @@ To implement this idea for yourself:
 3. Post to your blog, and host a [ChatGPT window](*https://github.com/vanjaoljaca/vanjacloud.web/blob/main/src/App.tsx*) next to it. This is the [system prompt](*https://github.com/vanjaoljaca/vanjacloudjs/blob/main/content/systemprompt.template.md*) I use.
 
 
-Not sure what to ask? Ask for some question recommendations.
+Not sure what to ask? Ask for some question recommendations. **Update:** I did the costing math wrong, this is not a viable idea at this cost. Disabled until I find a way to improve this.
 
-<style>
-.floating-iframe {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  width: 300px;
-  height: 520px;
-  border: none;
-  z-index: 1000; /* Ensures the iframe stays on top of other page content */
-}
-</style>
-<div class="floating-iframe">
-  <iframe src="https://vanjacloud.oljaca.me/blogchat.html" width="300" height="520"></iframe>
-</div>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mini Projects
+title: Projects
 permalink: /miniprojects/
 excerpt: hey
 ---
