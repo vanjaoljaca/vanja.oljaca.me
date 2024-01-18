@@ -1,4 +1,8 @@
-### Making a Deckard bot
+---
+layout: page
+title: Making a Deckard bot
+excerpt: Having fun with the OpenAI fine tuning API.
+---
 
 Making a fine-tuned GPT with openai is very easy. Here is how I created a Bladerunner Deckard bot.
 
