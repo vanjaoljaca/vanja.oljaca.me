@@ -29,4 +29,4 @@ But, we made it through that and achieved a good result:
 
 I find it a little verbose, but I haven't been able to mute it yet. I will tweak that over time and see how it goes. In the meanwhile you might be interested in the summarizer implementation: [link](https://github.com/vanjaoljaca/vanjacloud.local/blob/1585b4225fe6d8687fe55de6265c4fae50d0ba1f/util/gitsummarize.ts#L15)
 
-Next up I think I'll get it auto-updating the readme.md & protecting me from committing keys.
+Next up I think I'll get it auto-updating the readme.md & protecting me from committing keys. Originally my idea was to have incremental commit every minute, and have an LLM backed agent which 'squashes' commits into neat packages. I think that will be more work than I'm ready to commit at the moment though.
