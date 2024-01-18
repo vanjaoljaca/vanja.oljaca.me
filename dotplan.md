@@ -11,7 +11,6 @@ permalink: /dotplan/
 *Launch blog w/ 5 posts & announce on @vanjaoljaca*
 
 0. LLM Blog Ux Idea [failed]
-
 1. Autosummarize Autocommit [done]
 2. an AI focused how to (voice?)
 3. OpEd on Values
