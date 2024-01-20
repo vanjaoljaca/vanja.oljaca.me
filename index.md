@@ -18,6 +18,5 @@ This is my technical blog. I will be building some of my AI/UX ideas here.
 - Off-topic twitter: [@vanjajaja1](https://twitter.com/vanjajaja1)
 - Substack: [@vanjajaja1](https://vanjajaja1.substack.com/)
 
-<p>
-lorem ipsum all about me and whatever more stuff here ok my story.lorem ipsum all about me and whatever more stuff here ok my story.lorem ipsum all about me and whatever more stuff here ok my story.lorem ipsum all about me and whatever more stuff here ok my story.lorem ipsum all about me and whatever more stuff here ok my story.lorem ipsum all about me and whatever more stuff here ok my story.lorem ipsum all about me and whatever more stuff here ok my story.lorem ipsum all about me and whatever more stuff here ok my story.lorem ipsum all about me and whatever more stuff here ok my story.
-</p>
+
+
