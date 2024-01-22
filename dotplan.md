@@ -4,7 +4,7 @@ title: Dot Plan
 permalink: /dotplan/
 ---
 
-*Here is stuff I plan to do soonish or at some point.*
+*What I'm currently working on:*
 
 #### Current Sprint
 
@@ -21,7 +21,7 @@ permalink: /dotplan/
 
 ------
 
-### My App
+### My App/System
 
 *I have an app I am developing in a mildly unique way. Write up at substack https://vanjajaja1.substack.com *
 
@@ -32,7 +32,13 @@ permalink: /dotplan/
 5. wyd notifications
 6. see daily todos
 
+------
 
+### Socials
+
+I am working on my social presence and the message I want to send out. Some of these are personal, fun, and for hobbies. The most relevant one is my coding based TikTok account where I plan to make coding more approachable, and to share my work experience insights in an informal way.
+
+------
 
 #### On The Horizon
 
