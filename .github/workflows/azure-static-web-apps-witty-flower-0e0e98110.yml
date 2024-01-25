@@ -18,18 +18,19 @@ jobs:
       - uses: actions/checkout@v3
         with:
           submodules: true
-      - name: Set up Ruby
+       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.0
-          bundler-cache: true
+          bundler-cache: false
       - name: Add platform to Bundler
         run: bundle lock --add-platform x86_64-linux
-      - name: Build Jekyll Site
+      - name: Install dependencies
         run: |
-          gem install jekyll
+          gem install bundler
           bundle install
-          bundle exec jekyll build
+      - name: Build Jekyll Site
+        run: bundle exec jekyll build
       - name: Post Build
         run: ./post_build.sh
       - name: Build And Deploy
