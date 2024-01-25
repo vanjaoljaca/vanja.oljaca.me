@@ -23,6 +23,8 @@ jobs:
         with:
           ruby-version: 3.0
           bundler-cache: true
+      - name: Add platform to Bundler
+        run: bundle lock --add-platform x86_64-linux
       - name: Build Jekyll Site
         run: |
           gem install jekyll
