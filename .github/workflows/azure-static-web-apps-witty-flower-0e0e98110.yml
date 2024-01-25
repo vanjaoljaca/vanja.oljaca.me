@@ -21,7 +21,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.0
+          ruby-version: 2.7
           bundler-cache: false
       - name: Add platform to Bundler
         run: bundle lock --add-platform x86_64-linux
