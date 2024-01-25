@@ -27,7 +27,7 @@ jobs:
         run: bundle lock --add-platform x86_64-linux
       - name: Install dependencies
         run: |
-          gem install bundler
+          gem install bundler -v 2.4.22
           bundle install
       - name: Build Jekyll Site
         run: bundle exec jekyll build
