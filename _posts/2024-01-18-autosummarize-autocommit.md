@@ -40,3 +40,7 @@ https://twitter.com/karpathy/status/1748784260318990496
 You can imagine a future work environment that automatically commits every keystroke & records your verbalized through process as you code. From that it can generate a commit messages and documentation that highlight important pitfalls and design decisions. It could even bring up relevent reminders you left yourself as you work! Someday, for a brief period, we will be coding in a blissful flow state & everything will be perfect. 
 
 Then it will all be automated away.
+
+-----
+
+Join the conversation & leave comments on [Twitter](https://twitter.com/vanjaoljaca/status/1750359806974775452)
