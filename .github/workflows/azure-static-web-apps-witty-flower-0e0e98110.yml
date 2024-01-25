@@ -18,9 +18,14 @@ jobs:
       - uses: actions/checkout@v3
         with:
           submodules: true
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0
+          bundler-cache: true
       - name: Build Jekyll Site
         run: |
-          gem install bundler jekyll
+          gem install jekyll
           bundle install
           bundle exec jekyll build
       - name: Post Build
